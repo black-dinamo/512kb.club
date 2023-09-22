@@ -31,10 +31,10 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 ```
 #### Blank
 ```
-- domain:
-  url:
-  size:
-  last_checked:
+- domain: kaukokaipuu.xyz
+  url: https://www.kaukokaipuu.xyz
+  size: 89.5
+  last_checked: 2023-09-22
 ```
 
 **NOTE:** Site need to be added to the list in **alphabetical order**, so please make sure your site is in the correct place within the list, or your PR will be rejected.
